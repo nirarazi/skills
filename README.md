@@ -1,15 +1,15 @@
-# Kickoff brief
+# Skills
 
-A short skill for agents and teams: write a kickoff brief before building, instead of starting work just because building is cheap.
+A collection of agent skills I use and share. Each skill lives in its own folder with a `SKILL.md` you can drop into an agent's skills folder, or paste as instructions.
 
-The brief captures the need and evidence, working hypotheses, how you could be wrong, alternatives (including doing less or not building), costs beyond the build, a recommendation, and a named human go/no-go decision.
+## Skills
+
+- [kickoff-brief](kickoff-brief/SKILL.md): a short brief to write before significant product or workflow work, so you do not start building just because building is cheap.
 
 ## How to use
 
-- Drop `SKILL.md` into your agent's skills folder, or
-- Paste `SKILL.md` as instructions before significant product or workflow work.
-
-See `SKILL.md` for the full skill and a reusable brief template.
+- Copy a skill folder into your agent's skills directory, or
+- Paste that folder's `SKILL.md` as instructions before the work it covers.
 
 ## License
 
